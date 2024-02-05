@@ -1,0 +1,39 @@
+body{
+    background-color: aquamarine;
+}
+h1{
+    text-align: center;
+}
+.container{
+    height: 600px;
+    width: 600px;
+    justify-content: center;
+    position: relative;
+    background-color: white;
+    left:30%;
+    margin-top: 50px;
+}
+.box{
+    width: 200px;
+    height: 200px;
+    outline: 10px solid black;
+    float: left;
+    background-color: aquamarine;
+    text-align: center;
+    align-items: center;
+    font-size: 200px;
+
+}
+button{
+    position: relative;
+    left:47%;
+    margin-top: 40px;
+    height: 50px;
+    width: 100px;
+    background-color: coral;
+    font-style: oblique;
+    font-size: medium;
+}
+.big{
+    background-color: white;
+}
